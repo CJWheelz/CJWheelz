@@ -6,8 +6,8 @@ I am currently learning how to use C++ and opencv for computer vision tasks.
 
 I am always looking for cool app ideas, so if you have one feel free to shoot it over!
 
-Contact:
 Email: [cj.wheelan.25@dartmouth.edu](mailto:cj.wheelan.25@dartmouth.edu)
+
 LinkedIn: [CJ Wheelan](https://www.linkedin.com/in/cj-wheelan-710b81228)
 
 <!---
