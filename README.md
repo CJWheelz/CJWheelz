@@ -1,8 +1,8 @@
-Hi, my name is CJ Wheelan. I'm a Sophomore at Dartmouth college planning on majoring in CS (and maybe minoring in Econ).
+Hi, my name is CJ Wheelan. I'm a Sophomore at Dartmouth College planning on majoring in CS (and maybe minoring in Econ).
 
 I am interested in all things coding, but specifically I love using SwiftUI and Firebase for iOS app development.
 
-I am currently learning how to use C++ and opencv for computer vision tasks.
+I am currently learning how to use C++ and OpenCV for computer vision tasks.
 
 I am always looking for cool app ideas, so if you have one feel free to shoot it over!
 
